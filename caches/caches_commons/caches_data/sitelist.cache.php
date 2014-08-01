@@ -23,7 +23,7 @@ return array (
   \'watermark_quality\' => \'80\',
   \'watermark_pos\' => \'9\',
 )',
-    'uuid' => '',
+    'uuid' => '8d696036-192b-11e4-8827-fc4dd4d6d898',
     'url' => 'http://phpcmsgit.vs/',
   ),
 );
