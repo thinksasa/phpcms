@@ -3,8 +3,8 @@
 return array (
 	'default' => array (
 		'hostname' => 'localhost',
-		'database' => 'phpcms',
-		'username' => '',
+		'database' => 'phpcmsgit',
+		'username' => 'root',
 		'password' => '',
 		'tablepre' => 'v9_',
 		'charset' => 'utf8',

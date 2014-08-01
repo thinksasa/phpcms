@@ -3,10 +3,10 @@
 return array (
 	'default' => array (
 		'hostname' => 'localhost',
-		'database' => 'phpsso',
-		'username' => 'admin',
-		'password' => 'admin',
-		'tablepre' => 'ps_',
+		'database' => 'phpcmsgit',
+		'username' => 'root',
+		'password' => '',
+		'tablepre' => 'v9_sso_',
 		'charset' => 'utf8',
 		'type' => 'mysql',
 		'debug' => true,
